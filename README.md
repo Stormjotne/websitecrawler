@@ -10,3 +10,5 @@
 - unicodedata
 - re
 - time
+
+![Simple class diagram](ACIT4420_Class.png)
